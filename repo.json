@@ -1,0 +1,8 @@
+{
+  "name": "Spedy39 CloudStream",
+  "description": "Kişisel CloudStream eklentim",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/spedybaba3/Spedy39/main/plugins.json"
+  ]
+}
